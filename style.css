@@ -4,15 +4,36 @@ p{
 	color:red;
 }
 
+.listtitle {
+  color: black;
+  font-size: 24px;
+  font-family: Helvetica;
+}
+
+.byline {
+  color: gray;
+  font-family: Helvetica;
+  font-size: 12px;
+}
+
 img{
 	height:200px;
 	width: 300px;
+}
+
+#MainImg {
+  height: 600px;
+  width: 800px;
 }
 
 ul{
 	list-style-type: square;
 }
 
+div {
+  background-color: gold;
+}
 h1{
 	font-family: "Helvetica Neue", sans-serif;
+	font-size: 72px;
 }
